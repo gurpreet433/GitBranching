@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
                     .setAction("Action", null).show()
 
             // changes in main activity class
+            // second feature changes
         }
     }
 
