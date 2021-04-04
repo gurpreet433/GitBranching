@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
 
             // changes in main activity class
             // second feature changes
+
+            // release branch changes
         }
     }
 
