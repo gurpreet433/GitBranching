@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
             // second feature changes
 
             // release branch changes
+            // hotfix error changes
         }
     }
 
